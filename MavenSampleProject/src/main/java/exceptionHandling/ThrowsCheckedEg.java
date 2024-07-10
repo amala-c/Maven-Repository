@@ -23,3 +23,6 @@ public class ThrowsCheckedEg {
 	}
 
 }
+
+
+//if method throwing checked exception then declare exception or handle it in try catch

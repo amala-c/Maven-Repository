@@ -22,9 +22,9 @@ public class SumChild extends SumParent{
 		SumParent obj=new SumChild();
 		SumChild obj2=new SumChild();
 		obj.sum(2, 10);
-		obj2.difference(8, 6);
+		obj.difference(8, 6);
 		obj2.mult(5, 8);
-		//obj.mult(5,3);
+		obj2.mult(5,3);
 
 	}
 
